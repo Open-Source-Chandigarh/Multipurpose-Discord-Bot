@@ -48,8 +48,7 @@ Before you get started with Logic Link, make sure you have the following prerequ
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 Notes:  
-
-- Although you'll get these modules in the virtual environment, please go ahead and cross check their versions
+- There will be more modules used in other files, so check the python files before running the main.py file
        
 - Our preferred database management software is dbeaver. For configuring the database, refer here: [Dbeaver Setup](https://www.youtube.com/watch?v=nS-59CyoaMA&list=PLESMQx4LeD3N0-KKPPDaToZhBsom2E_Ju&index=30&ab_channel=RichardSchwabe)
 ---
@@ -64,15 +63,13 @@ To install Logic Link, follow these steps:
    git clone https://github.com/Open-Source-Chandigarh/Multipurpose-Discord-Bot
    ```
 
-2. Setup virtual env and check for the above packages
+2. Go to [Discord Developer Portal](https://discord.com/developers/applications/1120412818076880946/bot) and setup a new application. In case of any difficulties, follow the [tutorial](https://www.youtube.com/watch?v=eLcAZIeqLu8&list=PLESMQx4LeD3N0-KKPPDaToZhBsom2E_Ju&index=1&ab_channel=RichardSchwabe)
 
-3. Go to [Discord Developer Portal](https://discord.com/developers/applications/1120412818076880946/bot) and setup a new application. In case of any difficulties, follow the [tutorial](https://www.youtube.com/watch?v=eLcAZIeqLu8&list=PLESMQx4LeD3N0-KKPPDaToZhBsom2E_Ju&index=1&ab_channel=RichardSchwabe)
+3. Add the bot token in settings.py file
 
-4. Add the bot token in settings.py file
+4. Go to [open ai docs](https://platform.openai.com/api-keys) and generate a new API key from there and add it into settings.py
 
-5. Go to [open ai docs](https://platform.openai.com/api-keys) and generate a new API key from there and add it into settings.py
-
-6. Add the bot to the designated server and enjoy!
+5. Add the bot to the designated server and enjoy!
 ---
 
 ## Usage
