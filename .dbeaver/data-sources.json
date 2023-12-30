@@ -1,0 +1,71 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-18cba5e2406-14c59b9b0b2e8793": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "economy.db",
+			"save-password": true,
+			"configuration": {
+				"database": "D:\\OSC\\economy.db",
+				"url": "jdbc:sqlite:D:\\OSC\\economy.db",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"auth-model": "native"
+			}
+		},
+		"sqlite_jdbc-18cba5e6744-2690bbfd1f3e1c1a": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "Player_stats.db",
+			"save-password": true,
+			"configuration": {
+				"database": "D:\\OSC\\Player_stats.db",
+				"url": "jdbc:sqlite:D:\\OSC\\Player_stats.db",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"auth-model": "native"
+			}
+		},
+		"sqlite_jdbc-18cba5ea158-2033e67de53adf88": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "Server_rank.db",
+			"save-password": true,
+			"configuration": {
+				"database": "D:\\OSC\\Server_rank.db",
+				"url": "jdbc:sqlite:D:\\OSC\\Server_rank.db",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"auth-model": "native"
+			}
+		},
+		"sqlite_jdbc-18cba5f07e9-7e3249a4fc8c7bd2": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "warn_system.db",
+			"save-password": true,
+			"configuration": {
+				"database": "D:\\OSC\\warn_system.db",
+				"url": "jdbc:sqlite:D:\\OSC\\warn_system.db",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"smart-commit": false,
+			"smart-commit-recover": false,
+			"auto-close-transactions": true,
+			"close-transactions-period": 1800
+		}
+	}
+}

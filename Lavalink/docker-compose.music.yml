@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+    lavalink:
+        image: "fredboat/lavalink:latest" # pin the image version to Lavalink v4
+        volumes:
+            - ./application.yml:/opt/Lavalink/application.yml # mount application.yml from the same directory or use environment variables
+        ports:
+            - 2333:2333 # you only need this if you want to make your lavalink accessible from outside of containers
+
+        restart: always
