@@ -1,0 +1,87 @@
+
+
+# Common : Bronze coin, junk, Uno cards - red, blue, green, yellow (10 points), adhesive, wood, bronze chest
+# Uncommon : Silver Coin, refining crystals, Uno card - Draw two, Reverse Card, Skip Card (20 points), Boss essence - Gargoyle(Will also drop gargoyle bones, gargoyle fangs and gargoyle skin), Goblin (Will also drop goblin bones) (Both will also drop refining crystals), iron ingots, ropes
+# Rare : Adventure Map, Gold coin, Uno Card - Shuffle Card (40 points), Fortress chest, flint
+# Epic : Treasure box, Uno Card - Wild Card (50 points), ruby, emeralds, Boss essence - Dragon (Will also drop dragon scales and dragon teeth) 
+# Legendary : Dungeon Shard, Boss essence - Kraken, Necromancer, wither skull
+# Mythic : Dragon pet, Necromancer Handle, Wither Shield scroll, Shadow Warp scroll, Wither Impact scroll
+
+ 
+
+
+
+
+
+1. Necromancer blade : (Most Damaging weapon in game)
+
+        Craft Requirements - (Items from legendary bosses)
+            - Necromancer handle
+            - 3x Wither skulls
+            - Wither Shield scroll
+            - Shadow Warp scroll
+            - Wither Impact scroll
+            - 100k coins
+            - 5 daily streak
+            - Will also give bleed
+
+Will make unrefined necromancer blade (Un-usable at this point)
+In order to make it a refined necromancer blade, you'll need 5k refining crystals (uncommon item/ drop from uncommon bosses)
+
+
+2. Dragon scale Armour: 
+
+        Craft Requirements - (Items from epic bosses)
+            - Dragon scales
+            - Refined Iron ingots
+            - Dragon teeth
+            - 50k coins
+            - 5 daily streak
+
+Will need 50 refined iron ingots, 4 dragon scales and 8 dragon teeth per armour piece (4 pieces: helmet, chestplate, leggings and boots)
+
+
+3. Gragoyle blade : (Craftable from uncommon boss drop)
+
+        - Will give bleed status to the bosses
+        - Gargoyle fangs
+        - 5k coins
+        - no daily streak
+        - Gargoyle bones
+        - rope (10)
+
+No refine upgrade
+
+
+4. Gargoyle armour : (Craftable from rare boss drop)
+
+        - 5k coins
+        - No daily streak
+        - Gargoyle skin
+        - Adhesive
+
+no refine upgrades
+
+
+5. Iron helmet : Obtainable from fortress chest (rare)
+6. Iron chestplate : Obtainable from fortress chest (rare)
+7. Iron leggings : Obtainable from fortress chest (rare)
+8. Iron bott s Obtainable from fortress chest (rare)
+
+
+9. Goblin spear : (Craftable from goblin bones and flint)
+
+        - 7k coins
+        - 3 daily streak
+        - Goblin bones
+        - flint
+    
+No refine upgrades
+
+
+10. Iron Sword : (Craftable from iron ingots and wood)
+
+
+11. Common bow: Obtainable from bronze chest
+12. bronze Sword: Obtainable from bronze chest
+13. bronze armour set: Obtainable from bronze chest
