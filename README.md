@@ -2,7 +2,7 @@
 
 **Logic Link Discord Bot**
 ---
-### Original Owner - https://github.com/XDFrost
+### Original Owner - [Pratham Gupta](https://github.com/XDFrost)
 ---
 
 **Table of Contents**
